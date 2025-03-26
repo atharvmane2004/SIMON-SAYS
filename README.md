@@ -42,3 +42,5 @@ The Simon Says Game is a fun and interactive memory-based game where players mus
 
 🎊 Enjoy playing the Simon Says Game! 🚀
 
+
+Link : https://simon-says-game-javascript.netlify.app/
